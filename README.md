@@ -30,21 +30,25 @@ iMouse utilizes the MediaPipe library for real-time hand tracking and OpenCV for
 - **Operating System:** Windows, macOS, or Linux (tested on Windows)
 - **Python:** Python 3.7 or higher
 - **Libraries:**
+  
     ```bash
     pip install opencv-python mediapipe pyautogui pynput keyboard Pillow numpy
     ```
+
 
 ## Usage Instructions
 
 1. **Install Dependencies:** Execute the command above in your terminal or command prompt.
 
 2. **Run the Script:** Run the program using:
-    ```bash
-    python iMouse.py
-    ```
-3. **Control the Cursor:** Perform the designated hand gestures to control the mouse cursor and execute actions.
 
-4. **Exit:** Press the 'Esc' key to gracefully terminate the program.
+    ```bash
+    python main.py
+    ```
+
+4. **Control the Cursor:** Perform the designated hand gestures to control the mouse cursor and execute actions.
+
+5. **Exit:** Press the 'Esc' key to gracefully terminate the program.
 
 - **Biotechnology Integration Potential:** The core technology behind iMouse has significant potential for integration with broader biotechnology applications. Future development could involve:
 
