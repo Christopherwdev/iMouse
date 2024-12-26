@@ -1,8 +1,12 @@
 # iMouse: Assistive Technology for Precise Cursor Control
 
-iMouse is a Python-based assistive technology application I designed to provide precise mouse control using hand gestures. This project is particularly beneficial for individuals with motor impairments, such as those experiencing conditions like amyotrophic lateral sclerosis (ALS), similar to the challenges faced by the late Stephen Hawking.  iMouse leverages cutting-edge computer vision techniques to translate subtle hand movements into cursor actions, offering a more intuitive and less physically demanding alternative to traditional input methods.
+iMouse is a simple-to-use, Python-based assistive technology application I designed to provide precise mouse control using virtual hand gestures. 
+
+This project is particularly beneficial for individuals with motor impairments, such as those experiencing conditions like amyotrophic lateral sclerosis (ALS), similar to the challenges faced by the late Stephen Hawking.  iMouse leverages cutting-edge computer vision techniques to translate subtle hand movements into cursor actions, offering a more intuitive and less physically demanding alternative to traditional input methods.
+
 I have also uploaded this project to our school's computer society github page which I am in charge of: [https://github.com/ComputerSocietySPC/iMouse/tree/main](https://github.com/ComputerSocietySPC/iMouse/tree/main) 
-It provides more advanced development of our code.
+
+It provides more advanced development of our code, please see if you are interested.
 
 ## Features and Functionality
 
